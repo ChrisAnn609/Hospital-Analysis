@@ -12,7 +12,7 @@
 ### Project Overview
 This Data Analysis Project aims to provide insights into patient demographics and trends, medical equipment usage and maintenance and staff performance in the Health Care industry. By analyzing various aspects of hospital data, this project seeks to identify areas for improvement in hospital operations such as in efficiency and patient care and satisfaction, make data-driven recommendations and gain a deeper understanding of the industry's performance.
 
-[Dashboard](hospital data analysis.png)
+[Dashboard](hospital.png)
 
 ![image](https://github.com/ChrisAnn609/Hospital-Analysis/assets/173093556/8c457fbe-77f2-4b1d-bb84-4ce6dd6d6094)
 
